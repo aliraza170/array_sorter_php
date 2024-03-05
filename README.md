@@ -55,5 +55,4 @@ of transportation (such as flight number, bus number etc)
 3. A request will be called to sort the data from server
 
 
-#Aliraza170@gmail.com
-#0092 336 514 1224
+# aliraza170@gmail.com
